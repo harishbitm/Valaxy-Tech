@@ -15,7 +15,7 @@
 # The commands below will not be allowed...
 # `git push --force origin master`
 # `git push --delete origin master`
-# `git push origin :master`
+
 #
 # Nor will a force push while on the master branch be allowed...
 # `git co master`
